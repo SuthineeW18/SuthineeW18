@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suthinee</h1>
-<h3 align="center">I'm the frontend developer</h3>
+<h3 align="center">I'm the frontend developer at IT One</h3>
+
+- 🔭 I’m currently working on **building an intuitive user interface.**
+
+- 🌱 I’m currently learning **React.**
+
+- 📫 How to reach me **swongviriyachai18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
